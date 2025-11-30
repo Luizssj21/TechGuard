@@ -1,0 +1,5 @@
+{
+  "name": "TechGuard Management System",
+  "description": "A comprehensive computer maintenance management system featuring Client, Technician, and Manager portals as outlined in the Unimontes project report. Includes real-time tracking, service order management, and AI-assisted diagnostics.",
+  "requestFramePermissions": []
+}
