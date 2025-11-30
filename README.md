@@ -1,20 +1,30 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# 🛡️ TechGuard Management System
 
-# Run and deploy your AI Studio app
+Bem-vindo ao repositório do **TechGuard Management System**. Este é um sistema de gerenciamento robusto desenvolvido para oferecer eficiência e integração inteligente.
 
-This contains everything you need to run your app locally.
+O projeto utiliza tecnologias modernas de desenvolvimento JavaScript/TypeScript e conta com integração de Inteligência Artificial através da API do Google Gemini.
 
-View your app in AI Studio: https://ai.studio/apps/drive/1khwS_oVKf5z8f1qU9VSO7Q9wLOW6CyDn
+## 🚀 Tecnologias Utilizadas
 
-## Run Locally
+O projeto foi desenvolvido utilizando as seguintes tecnologias principais:
 
-**Prerequisites:**  Node.js
+* **Node.js**: Ambiente de execução JavaScript.
+* **Zod**: Para validação de schemas e tipagem de dados robusta.
+* **Google Gemini AI**: Integração de IA para recursos inteligentes.
+* **Zod Validation Error**: Tratamento amigável de erros de validação.
+* **Git**: Controle de versão.
 
+## ⚙️ Pré-requisitos
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+Antes de começar, certifique-se de ter instalado em sua máquina:
+* [Node.js](https://nodejs.org/) (versão LTS recomendada)
+* [Git](https://git-scm.com/)
+
+## 🔧 Instalação e Configuração
+
+Siga os passos abaixo para rodar o projeto localmente:
+
+### 1. Clonar o repositório
+
+```bash
+git clone git remote set-url origin https://github.com/Luizssj21/TechGuard.git
